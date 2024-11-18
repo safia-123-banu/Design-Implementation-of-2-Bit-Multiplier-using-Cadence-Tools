@@ -1,5 +1,4 @@
 # Design-Implementation-of-2-Bit-Multiplier-using-Cadence-Tools
-Ex No: 05     Design & Implementation of 2 bit multiplier Using Cadence EDA Tools   
 
 Aim:
 To design and implement a 2-bit multiplier circuit using Cadence EDA tools, simulate its functionality, and to understand its application in digital arithmetic operations.
@@ -7,6 +6,11 @@ To design and implement a 2-bit multiplier circuit using Cadence EDA tools, simu
 Tools Required:
 •	Personal Computer
 •	Cadence Virtuoso Software
+
+Circuit Diagram:
+
+![exp6 vsli](https://github.com/user-attachments/assets/3f255b28-c476-4607-971e-f79e6d407cc1)
+
 
 S C H E M A T I C S I M U L A T I O N - PROCEDURE FOR CREATING THE SCHEMATIC SIMULATION -Commands to get into Cadence
 
@@ -99,6 +103,7 @@ Analog simulation by SPECTRE.
 •	Execute Simulation -- Net list and Run
 
 ![IMG-20241026-WA0016](https://github.com/user-attachments/assets/cefafc03-6c2e-4227-91fe-f21f1241754c)
+
 
 
 For Transient Analysis Settings and Output
